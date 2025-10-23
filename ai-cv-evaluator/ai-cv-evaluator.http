@@ -1,0 +1,6 @@
+@ai_cv_evaluator_HostAddress = http://localhost:5190
+
+GET {{ai_cv_evaluator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
