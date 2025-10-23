@@ -67,7 +67,6 @@ Each file is converted into an embedding and stored in the DocumentVectors table
 ## How to Run Locally
 1. Clone repository
 2. Add appsettings.json
-   ApiKey: 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
 ```
 {
   "ConnectionStrings": {
