@@ -4,8 +4,6 @@
 AI CV Evaluator is a .NET 8-based backend service that automatically evaluates candidates' CVs and project reports using LLM (Large Language Model) and RAG (Retrieval-Augmented Generation) approaches.
 The goal is to automate the initial candidate selection process by assessing the relevance of CVs and the quality of project reports against job descriptions and predetermined evaluation criteria.
 
-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
-
 ## Objectives
 - Upload and save candidates' CVs and Project Reports.
 - Performing AI evaluation on both documents using internal context:
